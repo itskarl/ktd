@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="912px" height="152px" viewBox="0 0 912 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>placeholder_image_desktop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop_2.0_study-design" transform="translate(-40.000000, -402.000000)">
+            <g id="placeholder_image" transform="translate(40.000000, 402.000000)">
+                <g>
+                    <rect id="Rectangle" stroke="#585858" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="1" y="1" width="910" height="150"></rect>
+                    <path d="M2.5,2.55223881 L909.5,149.447761" id="Line" stroke="#585858" stroke-linecap="square" stroke-dasharray="15" fill-rule="nonzero"></path>
+                    <path d="M2.5,2.55223881 L909.5,149.447761" id="Line" stroke="#585858" stroke-linecap="square" stroke-dasharray="15" fill-rule="nonzero" transform="translate(456.000000, 76.000000) scale(1, -1) translate(-456.000000, -76.000000) "></path>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="339" y="52" width="234" height="48"></rect>
+                    <text id="Placeholder-for-asso" font-family="ArialMT, Arial" font-size="20" font-weight="normal" letter-spacing="0.06666666" fill="#585858">
+                        <tspan x="388.239258" y="70">Placeholder for </tspan>
+                        <tspan x="366.388021" y="92">associated data/text</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

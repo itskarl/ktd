@@ -1,0 +1,24 @@
+<!-- ############################################# NO VIDEO BLOCK LAYOUT ############################################# -->
+
+<h1>Nam porttitor blandit accumsan. Ut vel dictum sem, a pretium dui.</h1>
+
+<p>Mauris non tempor quam, et lacinia sapien. Mauris accumsan eros eget libero posuere vulputate.</p>
+<ul>
+    <li>
+        In hac habitasse platea dictumst. Vivamus adipiscing fermentum quam volutpat aliquam. Integer et elit eget elit facilisis tristique. Nam vel iaculis mauris.
+    </li>
+</ul>
+
+<p>
+    <img class="desktop-only" src="images/svg/desktop/placeholder_image.svg" alt="" width="100%">
+    <img class="mobile-only" src="images/svg/mobile/placeholder_image.svg" alt="" width="100%">
+</p>
+<div class="references">
+    <p>
+        [insert footnotes here]
+        <br><br>[insert abbreviation expansions here]
+        <br><br>[insert references here]
+    </p>
+</div>
+
+<!-- ############################################# NO VIDEO BLOCK LAYOUT ############################################# -->

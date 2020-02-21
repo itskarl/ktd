@@ -1,0 +1,41 @@
+@mixin clearfix-a() {
+  &:after {
+    content:'.';
+    height:0;
+    overflow:hidden;
+    display:block;
+    clear:both;
+  }
+}
+
+@mixin clearfix() {
+  &:before,
+  &:after{
+    content:'.';
+    height:0;
+    overflow:hidden;
+    display:block;
+    clear:both;
+  }
+}
+
+@mixin pos-abs($top: 0, $right: 0, $bottom: 0, $left: 0) {
+  position:absolute;
+  top: $top;
+  left: $left;
+  right: $right;
+  bottom: $bottom;
+}
+
+@mixin pos-abs-tl($top: 0, $left: 0) {
+  position:absolute;
+  top: $top;
+  left: $left;
+}
+
+@mixin user-select-none() {
+  user-select: none;
+}
+
+$cbeIn: cubic-bezier(0, 0, .2, 1);
+$cbeOut: cubic-bezier(.8, 0, 1, 1);

@@ -1,0 +1,38 @@
+<!-- ############################################ SINGLE VIDEO BLOCK LAYOUT ############################################ -->
+
+<h1>Nam porttitor blandit accumsan. Ut vel dictum sem, a pretium dui.</h1>
+<div class="columns">
+    <div class="column">
+        <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+    </div>
+    <div class="column" style="min-width: 330px; text-align:right">
+        <div rel="video-1" class="video-thumb">
+            <div class="video-thumb__image"><img src="images/video_thumb.png"></div>
+            <div class="video-thumb__title">Lorem ipsum dolor sit amet</div>
+        </div>
+        <div id="video-1" class="video-popup">
+            <div class="video-popup__video">
+                <div class="brightcove-player">
+                    <iframe src="//players.brightcove.net/5971584181001/default_default/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="video-popup__description">
+                <h4>Lorem ipsum dolor sit amet</h4>
+                <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<p>
+    <img class="desktop-only" src="images/svg/desktop/placeholder_image.svg" alt="Study Design" width="100%">
+    <img class="mobile-only" src="images/svg/mobile/placeholder_image.svg" alt="Study Design" width="100%">
+</p>
+
+        <div class="references">
+            <p>
+                [insert footnotes here]
+                <br><br>[insert abbreviation expansions here]
+                <br><br>[insert references here]
+            </p>
+        </div>
+<!-- ############################################ SINGLE VIDEO BLOCK LAYOUT ############################################ -->

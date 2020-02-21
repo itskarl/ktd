@@ -1,0 +1,101 @@
+<!-- ########################################### MULTIPLE VIDEO BLOCK LAYOUT ########################################### -->
+
+<h1>Nam porttitor blandit accumsan. Ut vel dictum sem, a pretium dui.</h1>
+
+<p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+
+<p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+
+<p>
+    <img class="desktop-only" src="images/svg/desktop/placeholder_image.svg" alt="Study Design" width="100%">
+    <img class="mobile-only" src="images/svg/mobile/placeholder_image.svg" alt="Study Design" width="100%">
+</p>
+<div class="references">
+            <p>
+                [insert footnotes here]
+                <br><br>[insert abbreviation expansions here]
+                <br><br>[insert references here]
+            </p>
+</div>
+
+        <div rel="video-3" class="video-thumb">
+            <div class="video-thumb__image"><img src="images/video_thumb.png"></div>
+            <div class="video-thumb__title">Lorem ipsum dolor sit amet 1</div>
+        </div>
+        <div id="video-3" class="video-popup">
+            <div class="video-popup__video">
+                <div class="brightcove-player">
+                    <iframe src="//players.brightcove.net/5971584181001/default_default/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="video-popup__description">
+                <h4>Lorem ipsum dolor sit amet</h4>
+                <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+            </div>
+        </div>
+
+        <div rel="video-4" class="video-thumb">
+            <div class="video-thumb__image"><img src="images/video_thumb.png"></div>
+            <div class="video-thumb__title">Lorem ipsum dolor sit amet 2</div>
+        </div>
+        <div id="video-4" class="video-popup">
+            <div class="video-popup__video">
+                <div class="brightcove-player">
+                    <iframe src="//players.brightcove.net/5971584181001/default_default/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="video-popup__description">
+                <h4>Lorem ipsum dolor sit amet</h4>
+                <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+            </div>
+        </div>
+
+        <div rel="video-5" class="video-thumb">
+            <div class="video-thumb__image"><img src="images/video_thumb.png"></div>
+            <div class="video-thumb__title">Lorem ipsum dolor sit amet 3</div>
+        </div>
+        <div id="video-5" class="video-popup">
+            <div class="video-popup__video">
+                <div class="brightcove-player">
+                    <iframe src="//players.brightcove.net/5971584181001/default_default/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="video-popup__description">
+                <h4>Lorem ipsum dolor sit amet</h4>
+                <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+            </div>
+        </div>
+
+        <div rel="video-6" class="video-thumb">
+            <div class="video-thumb__image"><img src="images/video_thumb.png"></div>
+            <div class="video-thumb__title">Lorem ipsum dolor sit amet 4</div>
+        </div>
+        <div id="video-6" class="video-popup">
+            <div class="video-popup__video">
+                <div class="brightcove-player">
+                    <iframe src="//players.brightcove.net/5971584181001/default_default/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="video-popup__description">
+                <h4>Lorem ipsum dolor sit amet</h4>
+                <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+            </div>
+        </div>
+
+        <div rel="video-7" class="video-thumb">
+            <div class="video-thumb__image"><img src="images/video_thumb.png"></div>
+            <div class="video-thumb__title">Lorem ipsum dolor sit amet 5</div>
+        </div>
+        <div id="video-7" class="video-popup">
+            <div class="video-popup__video">
+                <div class="brightcove-player">
+                    <iframe src="//players.brightcove.net/5971584181001/default_default/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="video-popup__description">
+                <h4>Lorem ipsum dolor sit amet</h4>
+                <p>A sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.</p>
+            </div>
+        </div>            
+            
+<!-- ########################################### MULTIPLE VIDEO BLOCK LAYOUT ########################################### -->

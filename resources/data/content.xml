@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<includes>
+    <item>
+        <id>logo-text</id>
+        <html><![CDATA[KEYNOTE-048]]></html>
+    </item>
+    <item>
+        <id>header-text</id>
+        <html><![CDATA[<strong>PEMBROLIZUMAB ALONE OR WITH CHEMOTHERAPY VERSUS CETUXIMAB WITH CHEMOTHERAPY FOR RECURRENT OR METASTATIC SQUAMOUS CELL CARCINOMA OF THE HEAD AND NECK (KEYNOTE-048): A RANDOMISED, OPEN-LABEL, PHASE 3 STUDY</strong>]]></html>
+    </item>
+    <item>
+        <id>header-text-ref</id>
+        <html><![CDATA[Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.]]></html>
+    </item>
+    <item>
+        <id>menu-item-1</id>
+        <html><![CDATA[SUMMARY]]></html>
+    </item>
+    <item>
+        <id>menu-item-2</id>
+        <html><![CDATA[STUDY DESIGN]]></html>
+    </item>
+    <item>
+        <id>menu-item-3</id>
+        <html><![CDATA[OVERALL <br class="desktop-only">SURVIVAL]]></html>
+    </item>
+    <item>
+        <id>menu-item-3-1</id>
+        <html><![CDATA[Pembrolizumab Alone]]></html>
+    </item>
+    <item>
+        <id>menu-item-3-2</id>
+        <html><![CDATA[Pembrolizumab With plat/FU]]></html>
+    </item>
+    <item>
+        <id>menu-item-4</id>
+        <html><![CDATA[PROGRESSION-<br class="desktop-only">FREE SURVIVAL]]></html>
+    </item>
+    <item>
+        <id>menu-item-4-1</id>
+        <html><![CDATA[Pembrolizumab Alone]]></html>
+    </item>
+    <item>
+        <id>menu-item-4-2</id>
+        <html><![CDATA[Pembrolizumab With plat/FU]]></html>
+    </item>
+    <item>
+        <id>menu-item-5</id>
+        <html><![CDATA[ORR/DOR]]></html>
+    </item>
+    <item>
+        <id>menu-item-5-1</id>
+        <html><![CDATA[Pembrolizumab Alone]]></html>
+    </item>
+    <item>
+        <id>menu-item-5-2</id>
+        <html><![CDATA[Pembrolizumab With plat/FU]]></html>
+    </item>
+    <item>
+        <id>menu-item-6</id>
+        <html><![CDATA[SAFETY]]></html>
+    </item>
+    <item>
+        <id>menu-item-6-1</id>
+        <html><![CDATA[Adverse Events]]></html>
+    </item>
+    <item>
+        <id>menu-item-6-2</id>
+        <html><![CDATA[Laboratory Abnormalities]]></html>
+    </item>
+    <item>
+        <id>isi-indications-title</id>
+        <html><![CDATA[INDICATIONS AND USAGE]]></html>
+    </item>
+    <item>
+        <id>isi-indications</id>
+        <html><![CDATA[
+<ul>
+    <li>KEYTRUDA, in combination with platinum and fluorouracil (FU), is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent head and neck squamous cell carcinoma (HNSCC).</li>
+    <li>KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test.</li>
+</ul>
+        ]]></html>
+    </item>
+    <item>
+        <id>isi-ssi-title</id>
+        <html><![CDATA[SELECTED SAFETY INFORMATION]]></html>
+    </item>
+    <item>
+        <id>isi-ssi-title-mobile</id>
+        <html><![CDATA[SELECTED SAFETY INFORMATION FOR KEYTRUDA<sup>&reg;</sup> (pembrolizumab)]]></html>
+    </item>
+    <item>
+        <id>isi-ssi</id>
+        <html><![CDATA[
+            <strong>Immune-Mediated Pneumonitis</strong>
+            <ul>
+            <li>KEYTRUDA can cause immune-mediated pneumonitis, including fatal cases. Pneumonitis occurred in 6% (18/300) of HNSCC patients receiving KEYTRUDA as a single agent, including Grades 3‒5 in 1.6% of patients, and occurred in 5.4% (15/276) of HNSCC patients receiving KEYTRUDA in combination with platinum and FU as first-line therapy for advanced disease, including Grades 3‒5 in 1.5% of patients. Monitor patients for signs and symptoms of pneumonitis. Evaluate suspected pneumonitis with radiographic imaging. Administer corticosteroids for Grade 2 or greater pneumonitis. Withhold KEYTRUDA for Grade 2; permanently discontinue KEYTRUDA for Grade 3 or 4 or recurrent Grade 2 pneumonitis.</li>
+            </ul>
+            <br/>
+            <strong>Immune-Mediated Colitis</strong>
+            <ul>
+            <li>KEYTRUDA can cause immune-mediated colitis. Colitis occurred in 1.7% (48/2799) of patients receiving KEYTRUDA, including Grade 2 (0.4%), 3 (1.1%), and 4 (<0.1%). Monitor patients for signs and symptoms of colitis. Administer corticosteroids for Grade 2 or greater colitis. Withhold KEYTRUDA for Grade 2 or 3; permanently discontinue KEYTRUDA for Grade 4 colitis.</li>
+            </ul>
+            <br/>
+            <strong>Immune-Mediated Hepatis</strong>
+            <ul>
+            <li>KEYTRUDA can cause immune-mediated hepatitis. Hepatitis occurred in 0.7% (19/2799) of patients receiving KEYTRUDA, including Grade 2 (0.1%), 3 (0.4%), and 4 (<0.1%). Monitor patients for changes in liver function. Administer corticosteroids for Grade 2 or greater hepatitis and, based on severity of liver enzyme elevations, withhold or discontinue KEYTRUDA.
+            </li>
+            </ul>
+            <br/>
+            <strong>Immune-Mediated Endocrinopathies</strong>
+            <ul>
+            <li>KEYTRUDA can cause adrenal insufficiency (primary and secondary), hypophysitis, thyroid disorders, and type 1 diabetes mellitus. Adrenal insufficiency occurred in 0.8% (22/2799) of patients, including Grade 2 (0.3%), 3 (0.3%), and 4 (<0.1%). Hypophysitis occurred in 0.6% (17/2799) of patients, including Grade 2 (0.2%), 3 (0.3%), and 4 (<0.1%). Hypothyroidism occurred in 8.5% (237/2799) of patients, including Grade 2 (6.2%) and 3 (0.1%). The incidence of new or worsening hypothyroidism was higher in 1185 patients with HNSCC (16%) receiving KEYTRUDA as a single agent or in combination with platinum and FU, including Grade 3 (0.3%) hypothyroidism. Hyperthyroidism occurred in 3.4% (96/2799) of patients, including Grade 2 (0.8%) and 3 (0.1%), and thyroiditis occurred in 0.6% (16/2799) of patients, including Grade 2 (0.3%). Type 1 diabetes mellitus, including diabetic ketoacidosis, occurred in 0.2% (6/2799) of patients.
+            </li>
+            <br/>
+            <li>Monitor patients for signs and symptoms of adrenal insufficiency, hypophysitis (including hypopituitarism), thyroid function (prior to and periodically during treatment), and hyperglycemia. For adrenal insufficiency or hypophysitis, administer corticosteroids and hormone replacement as clinically indicated. Withhold KEYTRUDA for Grade 2 adrenal insufficiency or hypophysitis and withhold or discontinue KEYTRUDA for Grade 3 or Grade 4 adrenal insufficiency or hypophysitis. Administer hormone replacement for hypothyroidism and manage hyperthyroidism with thionamides and beta-blockers as appropriate. Withhold or discontinue KEYTRUDA for Grade 3 or 4 hyperthyroidism. Administer insulin for type 1 diabetes and withhold KEYTRUDA and administer antihyperglycemics in patients with severe hyperglycemia.
+            </li>
+            </ul>
+            <br/>
+            <strong>Immune-Mediated Nephritis and Renal Dysfunction</strong>
+            <ul>
+            <li>KEYTRUDA can cause immune-mediated nephritis. Nephritis occurred in 0.3% (9/2799) of patients receiving KEYTRUDA, including Grade 2 (0.1%), 3 (0.1%), and 4 (<0.1%) nephritis. Monitor patients for changes in renal function. Administer corticosteroids for Grade 2 or greater nephritis. Withhold KEYTRUDA for Grade 2; permanently discontinue for Grade 3 or 4 nephritis.</li>
+            </ul>
+            <br/>
+            <strong>Immune-Mediated Skin Reactions</strong>
+            <ul>
+            <li>Immune-mediated rashes, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) (some cases with fatal outcome), exfoliative dermatitis, and bullous pemphigoid, can occur. Monitor patients for suspected severe skin reactions and based on the severity of the adverse reaction, withhold or permanently discontinue KEYTRUDA and administer corticosteroids. For signs or symptoms of SJS or TEN, withhold KEYTRUDA and refer the patient for specialized care for assessment and treatment. If SJS or TEN is confirmed, permanently discontinue KEYTRUDA.</li>
+            </ul>
+            <br/>
+            <strong>Other Immune-Mediated Adverse Reactions</strong>
+            <ul>
+            <li>Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue in patients receiving KEYTRUDA and may also occur after discontinuation of treatment. For suspected immune-mediated adverse reactions, ensure adequate evaluation to confirm etiology or exclude other causes. Based on the severity of the adverse reaction, withhold KEYTRUDA and administer corticosteroids. Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month. Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered. Resume KEYTRUDA when the adverse reaction remains at Grade 1 or less following corticosteroid taper. Permanently discontinue KEYTRUDA for any Grade 3 immune-mediated adverse reaction that recurs and for any life-threatening immune-mediated adverse reaction.
+            </li>
+            <br/>
+            <li>The following clinically significant immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients: arthritis (1.5%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, sarcoidosis, and encephalitis. In addition, myelitis and myocarditis were reported in other clinical trials, including classical Hodgkin lymphoma, and postmarketing use.
+            </li>
+            <br/>
+            <li>Treatment with KEYTRUDA may increase the risk of rejection in solid organ transplant recipients. Consider the benefit of treatment vs the risk of possible organ rejection in these patients.</li>
+            </ul>
+            <br/>
+            <strong>Infusion-Related Reactions</strong>
+            <ul>
+            <li>KEYTRUDA can cause severe or life-threatening infusion-related reactions, including hypersensitivity and anaphylaxis, which have been reported in 0.2% (6/2799) of patients. Monitor patients for signs and symptoms of infusion-related reactions. For Grade 3 or 4 reactions, stop infusion and permanently discontinue KEYTRUDA.</li>
+            </ul>
+            <br/>
+            <strong>Complications of Allogeneic Hematopoietic Stem Cell Transplantation (HSCT)</strong>
+            <ul>
+            <li>Immune-mediated complications, including fatal events, occurred in patients who underwent allogeneic HSCT after treatment with KEYTRUDA. Follow patients closely for early evidence of transplant-related complications such as hyperacute graft-versus-host disease (GVHD), Grade 3 to 4 acute GVHD, steroid-requiring febrile syndrome, hepatic veno-occlusive disease (VOD), and other immune-mediated adverse reactions.
+            </li>
+            <br/>
+            <li>In patients with a history of allogeneic HSCT, acute GVHD (including fatal GVHD) has been reported after treatment with KEYTRUDA. Patients who experienced GVHD after their transplant procedure may be at increased risk for GVHD after KEYTRUDA. Consider the benefit of KEYTRUDA vs the risk of GVHD in these patients.
+            </li>
+            </ul>
+            <br/>
+            <strong>Increased Mortality in Patients With Multiple Myeloma</strong>
+            <ul>
+            <li>In trials in patients with multiple myeloma, the addition of KEYTRUDA to a thalidomide analogue plus dexamethasone resulted in increased mortality. Treatment of these patients with a PD-1 or PD-L1 blocking antibody in this combination is not recommended outside of controlled trials.</li>
+            </ul>
+            <br/>
+            <strong>Embryofetal Toxicity</strong>
+            <ul>
+            <li>Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman. Advise women of this potential risk. In females of reproductive potential, verify pregnancy status prior to initiating KEYTRUDA and advise them to use effective contraception during treatment and for 4 months after the last dose.</li>
+            </ul>
+            <br/>
+            <strong>Adverse Reactions</strong>
+            <ul>
+            <li>In KEYNOTE-048, KEYTRUDA monotherapy was discontinued due to adverse events in 12% of 300 patients with HNSCC; the most common adverse reactions leading to permanent discontinuation were sepsis (1.7%) and pneumonia (1.3%). The most common adverse reactions (≥20%) were fatigue (33%), constipation (20%), and rash (20%).
+            </li>
+            <br/>
+            <li>In KEYNOTE-048, when KEYTRUDA was administered in combination with platinum (cisplatin or carboplatin) and FU chemotherapy, KEYTRUDA was discontinued due to adverse reactions in 16% of 276 patients with HNSCC. The most common adverse reactions resulting in permanent discontinuation of KEYTRUDA were pneumonia (2.5%), pneumonitis (1.8%), and septic shock (1.4%). The most common adverse reactions (≥20%) were nausea (51%), fatigue (49%), constipation (37%), vomiting (32%), mucosal inflammation (31%), diarrhea (29%), decreased appetite (29%), stomatitis (26%), and cough (22%).</li>
+            </ul>
+            <br/>
+            <strong>Lactation</strong>
+            <ul>
+            <li>Because of the potential for serious adverse reactions in breastfed children, advise women not to breastfeed during treatment and for 4 months after the final dose.
+            </li>
+            </ul>
+            <p class="font-size-home-footer">
+            <br/><span class='another-grey-text'>FDA = Food and Drug Administration; FU = fluorouracil; PD-1 = programmed death receptor-1; PD-L1 = programmed death ligand 1.</span>
+            </p>
+        ]]></html>
+    </item>
+
+    <item>
+        <id>footer-copy</id>
+        <html><![CDATA[
+            Copyright &copy; 2020 Merck Sharp &amp; Dohme Corp., a subsidiary of <strong>Merck & Co., Inc.</strong>,
+            <br/>All rights reserved. US-OHN-00411 02/20
+        ]]></html>
+    </item>
+
+    <item>
+        <id>expand</id>
+        <html><![CDATA[Expand]]></html>
+    </item>
+    <item>
+        <id>close</id>
+        <html><![CDATA[Close]]></html>
+    </item>
+
+    <item>
+        <id>no</id>
+        <html><![CDATA[No]]></html>
+    </item>
+    <item>
+        <id>yes</id>
+        <html><![CDATA[Yes]]></html>
+    </item>
+
+    <item>
+        <id>leaving-site</id>
+        <html><![CDATA[You are leaving this site.]]></html>
+    </item>
+    <item>
+        <id>transferred-to</id>
+        <html><![CDATA[You will be transferred to:]]></html>
+    </item>
+    <item>
+        <id>want-to-continue</id>
+        <html><![CDATA[Do you want to continue?]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Summary -->
+        <id>section-1</id>
+        <html><![CDATA[
+<div class="font-size-large">
+<p><strong>In KEYNOTE-048, pembrolizumab was studied in participants with untreated locally incurable recurrent or metastatic HNSCC.<sup>1</sup></strong></p>
+<p>At the <strong>second interim analysis:</strong></p>
+<p><strong>Pembrolizumab alone <span class="green-text">prolonged overall survival</span></strong> in the <strong>PD-L1 CPS ≥1 population</strong> (HR<sup>a</sup> 0.78 [95% CI, 0.64-0.96, <i>P</i>=0.0171<sup>b</sup>]).</p>
+<p>In the <span class="green-text"><strong>CPS ≥1 population</strong></span>:</p>
+<ul>
+    <li>
+        <strong><span class="green-text">Median PFS</span></strong> with pembrolizumab alone was <strong>3.2 months</strong> (95% CI, 2.2–3.4) <i>vs</i> <strong>5.0 months</strong> (95% CI, 4.8–5.8) with cetuximab + plat/FU (HR<sup>a</sup> 1.15 [95% CI, 0.95–1.38]).
+    </li>
+    <br/>
+    <li>
+        <strong><span class="green-text">ORR<sup>c</sup></span></strong> with pembrolizumab alone (n=257) was <strong>19%</strong> (95% CI, 14.5–24.4; CR=5%, PR=14%) <i>vs</i> <strong>35%</strong> with cetuximab + plat/FU (95% CI, 29.1–41.1; CR=3%, PR=32%; n=255).
+    </li>
+    <br/>
+    <li>
+        <strong><span class="green-text">Median DOR</span></strong> with pembrolizumab alone was <strong>20.9 months</strong> (1.5+ to 34.8+ months) <i>vs</i> <strong>4.5 months</strong> (1.2+ to 28.6+) with cetuximab + plat/FU.
+    </li>
+</ul>
+<p><strong>Pembrolizumab with plat/FU <span class="green-text">prolonged overall survival</span></strong> in the <strong>total population</strong> (HR<sup>a</sup> 0.77 [95% CI, 0.63-0.93, <i>P</i>=0.0067<sup>b</sup>]).</p>
+<ul>
+    <li>
+        <strong><span class="green-text">Median PFS</span></strong> was <strong>4.9 months</strong> (95% CI, 4.7-6.0) with pembrolizumab with plat/FU <i>vs</i> <strong>5.1 months</strong> (95% CI, 4.9–6.0) with cetuximab + plat/FU (HR<sup>a</sup> 0.92 [95% CI, 0.77–1.10, <i>P</i>=0.3394<sup>b</sup>]).
+    </li>
+    <br/>
+    <li>
+        <strong><span class="green-text">ORR<sup>c</sup></span></strong> was <strong>36%</strong> (95% CI, 30.0–41.5; CR=6%, PR=30%) with pembrolizumab with plat/FU (n=281) <i>vs</i> <strong>36%</strong> with cetuximab + plat/FU (95% CI, 30.7-42.3; CR=3%, PR=33%; n=278).
+    </li>
+    <br/>
+    <li>
+        <strong><span class="green-text">Median DOR</span></strong> with pembrolizumab with plat/FU was <strong>6.7 months</strong> (1.6+ to 30.4+ months) <i>vs</i> <strong>4.3 months</strong> (1.2+ to 27.9+).
+    </li>
+</ul>
+</div>
+<p><a href="https://eorder.sheridan.com/3_0/app/orders/8975/article.php" target="_blank" data-external-link-title="The Lancet" data-external-link-disc="Please note that certain Federal and State laws require that Merck disclose payments or other transfers of value provided to health care professionals. By accepting this item you agree that we may disclose any required State or Federal reports a value for this item provided to you." data-external-link-desc="Pembrolizumab alone with chemotherapy vs cetuximab with chemotherapy for recurrent or metastatic squamous cell carcinoma of the head and neck (KEYNOTE-048): a randomised, open-label, phase 3 study" class="button-download">Access the full publication here</a></p>
+<p class="font-size-home-footer">
+<sup>a</sup>Based on the stratified Cox proportional hazard model.
+<br/><sup>b</sup>Based on a stratified log-rank test.
+<br/><sup>c</sup>Response: Best objective response as confirmed complete response or partial response.
+<br/>CI = confidence interval; CPS = combined positive score; CR = complete response; DOR = duration of response; HNSCC = head and neck squamous cell carcinoma; HR = hazard ratio; ORR = objective response rate; PD-L1 = programmed death ligand-1; PFS = progression-free survival; plat/FU = platinum and fluorouracil; PR = partial response.
+<br/><strong>1</strong>. Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.
+</p>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Study Design -->
+        <id>section-2</id>
+        <html><![CDATA[
+
+<!-- ####################################### STUDY DESIGN – VIDEO BLOCK LAYOUT ####################################### -->
+
+<!-- ############################################# NO VIDEO BLOCK LAYOUT ############################################# -->
+
+<h1>Pembrolizumab<sup>a</sup> Alone or With plat/FU Was Evaluated vs Cetuximab With plat/FU in KEYNOTE-048<sup>1</sup></h1>
+
+<ul>
+    <li>Three-arm trial compared pembrolizumab alone or in combination with plat/FU vs cetuximab with plat/FU in the first-line setting.</li>
+    <br/>
+    <li>Main efficacy outcome measures were OS and PFS (assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ).</li>
+    <br/>
+    <li>Efficacy was evaluated in the overall population, as well as in patients whose tumors expressed PD-L1 at CPS ≥1 and ≥20.</li>    
+</ul>
+
+<p>
+    <img src="images/svg/desktop/US_Study_Design.svg" alt="Study Design" width="100%">
+</p>
+<div class="references">
+    <p>
+        <sup>a</sup>The recommended dose of KEYTRUDA is 200 mg administered intravenously over 30 minutes every 3 weeks.
+        <br/><sup>b</sup>Assessed using the PD-L1 IHC 22C3 pharmDx assay (Agilent).
+        <br/><sup>c</sup>Assessed using the CINtec p16 Histology assay (Ventana); cutpoint for positivity = 70%.
+        <br/><br/>AUC = area under the curve; BICR = blinded independent central review; ECOG PS = Eastern Cooperative Oncology Group performance status; 
+        <br/>IHC = immunohistochemistry; IV = intravenous; OS = overall survival; PD-L1 = programmed death ligand 1; PFS = progression-free survival; 
+        <br/>plat/FU = platinum/fluorouracil; Q1W = every week; Q3W = every 3 weeks; R= randomized; RECIST v1.1 = Response Evaluation Criteria in Solid Tumors v1.1;
+        <br/>R/M = recurrent/metastatic; TPS = tumor proportion score.
+        <br/><br/><strong>1.</strong> Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.
+    </p>
+</div>
+
+<!-- ############################################# NO VIDEO BLOCK LAYOUT ############################################ -->
+
+
+<!-- ####################################### STUDY DESIGN – VIDEO BLOCK LAYOUT ###################################### -->
+
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Overall Survival - 1 -->
+        <id>section-3-1</id>
+        <html><![CDATA[
+<h1>KEYNOTE-048 OS, PD-L1 CPS ≥1 Population: Pembrolizumab Alone vs Cetuximab With plat/FU<sup>1</sup></h1>
+<div class='positioning-div'>
+<div class='left-float'><ul><li><strong>Median OS</strong> with pembrolizumab alone (CPS ≥1) was 12.3 months (95% CI, 10.8–14.9) vs 10.3 months (95% CI, 9.0–11.5) with cetuximab + plat/FU.</li></ul></div>
+<div class="os-mono-chart" style="display: flex; flex: 0 1 auto;"></div>
+</div>
+<br/>
+<div class="references">
+    <p>
+        <sup>a</sup>Results in population with CPS ≥1 at second interim analysis.
+        <br/><sup>b</sup>Based on the stratified Cox proportional hazard model.
+        <br/><sup>c</sup>Based on a stratified log-rank test.
+        <br/>CI = confidence interval; CPS = combined positive score; HR = hazard ratio; OS = overall survival; PD-L1 = programmed death-ligand 1; 
+        <br/>plat/FU = platinum and fluorouracil.
+        <br/><strong>1.</strong> Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Overall Survival - 2 -->
+        <id>section-3-2</id>
+        <html><![CDATA[
+<h1>KEYNOTE-048 OS, Total Population: Pembrolizumab With plat/FU vs Cetuximab With plat/FU<sup>1</sup></h1>
+<div class='positioning-div'>
+<div class='left-float'><ul><li><strong>Median OS</strong> with pembrolizumab with plat/FU was 13.0 months (95% CI, 10.9–14.7) vs 10.7 months (95% CI, 9.3–11.7) with cetuximab + plat/FU.</li></ul></div>
+<div class="os-combo-chart" style="display: flex; flex: 0 1 auto;"></div>
+</div>
+<br/>
+<div class="references">
+    <p>
+        <sup>a</sup>Results in population with CPS ≥1 at second interim analysis.
+        <br/><sup>b</sup>Based on the stratified Cox proportional hazard model.
+        <br/><sup>c</sup>Based on a stratified log-rank test.
+        <br/>CI = confidence interval; HR = hazard ratio; OS = overall survival; plat/FU = platinum and fluorouracil.
+        <br/><strong>1.</strong> Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Progression-free Survival - 1 -->
+        <id>section-4-1</id>
+        <html><![CDATA[
+<h1>KEYNOTE-048 PFS, PD-L1 CPS ≥1 Population: Pembrolizumab Alone vs Cetuximab With plat/FU<sup>1</sup></h1>
+<div class='positioning-div'>
+<div class='left-float'><ul><li><strong>Median PFS</strong> was 3.2 months (95% CI, 2.2–3.4) with pembrolizumab alone vs 5.0 months (95% CI, 4.8–5.8) with cetuximab + plat/FU (HR<sup>b</sup> 1.15 [95% CI 0.95–1.38]).</li></ul></div>
+<div class="pfs-mono-chart" style="display: flex; flex: 0 1 auto;"></div>
+</div>
+<div class='references'>
+<p class="special-footnote">
+<br/><strong>No formal statistical testing was done for pembrolizumab alone versus cetuximab with chemotherapy in the PD-L1 CPS of 1 or more population.</strong>
+</p>
+</div>
+<br/>
+<div class="references">
+    <p>
+        <sup>a</sup>Results in population with CPS ≥1 at second interim analysis.
+        <br/><sup>b</sup>Based on the stratified Cox proportional hazard model.
+        <br/><br/>CI = confidence interval; CPS = combined positive score; HR = hazard ratio; PD-L1 = programmed death-ligand 1; PFS = progression-free survival;
+        <br/>plat/FU = platinum and fluorouracil.
+        <br/><strong>1.</strong> Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Progression-free Survival - 2 -->
+        <id>section-4-2</id>
+        <html><![CDATA[
+<h1>KEYNOTE-048 PFS, PD-L1 Total Population: Pembrolizumab With plat/FU vs Cetuximab With plat/FU<sup>1</sup></h1>
+<div class='positioning-div'>
+<div class='left-float'><ul><li><strong>Median PFS</strong> was 4.9 months (95% CI, 4.7–6.0) with pembrolizumab with plat/FU vs 5.1 months (95% CI, 4.9–6.0) with cetuximab + plat/FU (HR 0.92 [95% CI 0.77–1.10]).</li></ul>
+</div>
+<div class="pfs-combo-chart" style="display: flex; flex: 0 1 auto;"></div>
+</div>
+<div class='references'>
+<p class="special-footnote">
+<br/><strong>No formal statistical testing was done for pembrolizumab alone versus cetuximab with chemotherapy in the PD-L1 CPS of 1 or more population.</strong>
+</p>
+</div>
+<br/>
+<div class="references">
+    <p>
+        <sup>a</sup>Results in population with CPS ≥1 at second interim analysis.
+        <br/><sup>b</sup>Based on the stratified Cox proportional hazard model.
+        <br/><sup>c</sup>Based on a stratified log-rank test.
+        <br/>CI = confidence interval; CPS = combined positive score; HR = hazard ratio; PD-L1 = programmed death-ligand 1; PFS = progression-free survival; 
+        <br/>plat/FU = platinum and fluorouracil.
+        <br/><strong>1.</strong> Burtness B et al. <i>Lancet.</i> 2019;394(10212):1915-1928.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: ORR/DOR - 1 -->
+        <id>section-5-1</id>
+        <html><![CDATA[
+<h1>KEYNOTE-048: Objective Response<sup>a</sup> and Duration of Response: Pembrolizumab Monotherapy, PD-L1 CPS ≥1 Population</h1>
+<p>
+  <img src="images/svg/desktop/US_ORR_DOR_Mono.svg" alt="ORR/DOR Monotherapy" width="100%">
+</p>
+<div class="references">
+    <p>
+        <sup>a</sup>Response: Best objective response as confirmed complete response or partial response. 
+        <br/>CI = confidence interval; CPS = combined positive score; PD-L1 = programmed death ligand 1; plat/FU = platinum and fluorouracil.        
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: ORR/DOR - 2 -->
+        <id>section-5-2</id>
+        <html><![CDATA[
+<h1>KEYNOTE-048: Objective Response<sup>a</sup> and Duration of Response: Pembrolizumab With plat/FU, Total Population</h1>
+<p>
+  <img src="images/svg/desktop/US_ORR_DOR_Combo.svg" alt="ORR/DOR Monotherapy" width="100%">
+</p>
+<div class="references">
+    <p>
+        <sup>a</sup>Response: Best objective response as confirmed complete response or partial response at final analysis. 
+        <br/>CI = confidence interval; plat/FU = platinum and fluorouracil.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <!-- SECTION: Safety - 1 -->
+        <id>section-6-1</id>
+        <html><![CDATA[
+<h1>Adverse Events Occurring in ≥10% of Patients Receiving Pembrolizumab in KEYNOTE-048</h1>
+<p>
+    <img src="images/svg/desktop/US_AE.svg" alt="Adverse Events" width="100%">
+</p>
+<div class="references">
+    <p>
+        <br/><sup>a</sup>Graded per NCI CTCAE v4.0.
+        <br/><sup>b</sup>Includes fatigue, asthenia.
+        <br/><sup>c</sup>Includes diarrhea, colitis, hemorrhagic diarrhea, microscopic colitis. 
+        <br/><sup>d</sup>Includes dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis contact, dermatitis exfoliative, drug eruption, erythema, erythema multiforme, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, pruritic rash, seborrheic dermatitis. 
+        <br/><sup>e</sup>Includes cough, productive cough. 
+        <br/><sup>f</sup>Includes dyspnea, exertional dyspnea. 
+        <br/><sup>g</sup>Includes pneumonia, atypical pneumonia, bacterial pneumonia, staphylococcal pneumonia, aspiration pneumonia, lower respiratory tract infection, lung infection, lung infection pseudomonal. 
+        <br/><sup>h</sup>Includes peripheral sensory neuropathy, peripheral neuropathy, hypoesthesia, dysesthesia. 
+        <br/><sup>i</sup>Includes back pain, musculoskeletal chest pain, musculoskeletal pain, myalgia.
+        <br/><br/>NCI CTCAE = National Cancer Institute Common Terminology Criteria for Adverse Events; plat/FU = platinum and fluorouracil.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+     <item>
+        <!-- SECTION: Safety - 2 -->
+        <id>section-6-2</id>
+        <html><![CDATA[
+<h1>Laboratory Abnormalities Worsened From Baseline Occurring in ≥20% of Patients Receiving Pembrolizumab in KEYNOTE-048</h1>
+<p>
+    <img src="images/svg/desktop/US_Lab_Abs.svg" alt="Laboratory Abnormalities" width="100%">
+</p>
+<div class="references">
+    <p>
+        <br/><sup>a</sup>Each test incidence is based on the number of patients who had both baseline and at least 1 on-study laboratory measurements available: pembrolizumab + plat/FU (range: 235 to 266 patients), pembrolizumab (range: 241 to 288 patients), cetuximab + plat/FU (range: 249 to 282 patients). 
+        <br/><sup>b</sup>Graded per NCI CTCAE v4.0
+        <br/>ALT = alanine aminotransferase; AST = aspartate aminotransferase; NCI CTCAE = National Cancer Institute Common Terminology Criteria for Adverse Events; 
+        <br/>plat/FU = platinum and fluorouracil.
+    </p>
+</div>
+        ]]></html>
+    </item>
+
+    <item>
+        <id>menu</id>
+        <html><![CDATA[Menu]]></html>
+    </item>
+
+    <item>
+        <id>home</id>
+        <html><![CDATA[home]]></html>
+    </item>
+
+    <item>
+        <id>footer-menu</id>
+        <html><![CDATA[
+            <a href="https://www.msdprivacy.com/us/en/index.html" target="_blank">Privacy</a> | <a href="https://www.merck.com/policy/terms-of-use/home.html" target="_blank">Terms of Use</a>
+    ]]></html>
+    </item>
+
+    <item>
+        <id>page-404-title</id>
+        <html><![CDATA[Page Not Found]]></html>
+    </item>
+
+    <item>
+        <id>page-404-text</id>
+        <html><![CDATA[Sorry, but the page you were trying to view does not exist.]]></html>
+    </item>
+
+</includes>

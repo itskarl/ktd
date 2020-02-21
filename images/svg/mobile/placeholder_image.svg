@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="123px" viewBox="0 0 280 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>placeholder_image_mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile_2.0_methods" transform="translate(-20.000000, -415.000000)">
+            <g id="placeholder_image" transform="translate(20.000000, 415.000000)">
+                <g>
+                    <rect id="Rectangle" stroke="#585858" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="1" y="1" width="278" height="121"></rect>
+                    <path d="M2.15198238,2.44402985 L277.848018,120.55597" id="Line" stroke="#585858" stroke-linecap="square" stroke-dasharray="15" fill-rule="nonzero"></path>
+                    <path d="M2.15198238,2.44402985 L277.848018,120.55597" id="Line" stroke="#585858" stroke-linecap="square" stroke-dasharray="15" fill-rule="nonzero" transform="translate(140.000000, 61.500000) scale(1, -1) translate(-140.000000, -61.500000) "></path>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="80" y="51.5" width="120" height="20"></rect>
+                    <text id="Placeholder-image" font-family="ArialMT, Arial" font-size="13" font-weight="normal" letter-spacing="0.06666666" fill="#585858">
+                        <tspan x="85.5956869" y="63.5">Placeholder image</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

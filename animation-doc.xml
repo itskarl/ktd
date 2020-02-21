@@ -1,0 +1,81 @@
+
+<!-- in index.html add -->
+<!-- this builds the animation starting with the first img, order is important... -->
+<!-- Animated chart template -->
+<div class="template" id="animated-template"> 
+    <div class="achart"> 
+        <div class="achart__l achart__l--1"> 
+            <div class="desktop-only"><img src="images/svg/desktop/" width="100%" alt=""></div> 
+            <div class="mobile-only"><img src="images/svg/mobile/" width="100%" alt=""></div> 
+        </div> 
+        <div class="achart__l achart__l--over achart__l--2"> 
+            <div class="desktop-only"><img src="images/svg/desktop/" width="100%" alt=""></div> 
+            <div class="mobile-only"><img src="images/svg/mobile/" width="100%" alt=""></div> 
+        </div> 
+        <div class="achart__l achart__l--over achart__l--3"> 
+            <div class="desktop-only"><img src="images/svg/desktop/" width="100%" alt=""></div> 
+            <div class="mobile-only"><img src="images/svg/mobile/" width="100%" alt=""></div> 
+        </div> 
+        <div class="achart__l achart__l--over achart__l--4"> 
+            <div class="desktop-only"><img src="images/svg/desktop/" width="100%" alt=""></div> 
+            <div class="mobile-only"><img src="images/svg/mobile/" width="100%" alt=""></div> 
+        </div> 
+        <!-- this draws the 'restart animation' button after animation stops -->
+        <div class="achart__redraw"> 
+            <svg width="36px" height="45px" viewBox="0 0 36 45" xmlns="http://www.w3.org/2000/svg">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+                    <g transform="translate(-883.000000, -408.000000)"> 
+                        <g transform="translate(871.000000, 402.000000)"> 
+                            <g transform="translate(13.500000, 6.750000)"> 
+                                <path d="M16.5,9 C25.6131317,9 33,16.3868683 33,25.5 C33,34.61217 25.6131317,42 16.5,42 C7.38686833,42 0,34.61217 0,25.5 C0,20.9895961 1.80993181,16.9023431 4.7412135,13.9248995" stroke="#585858" stroke-width="3"></path> 
+                                <polygon fill="#585858" points="16.5 0 7.5 8.99953152 16.5 18"></polygon>
+                            </g> 
+                        </g>
+                     </g>
+                 </g>
+            </svg> 
+        </div> 
+    </div>
+</div>
+<!-- Animated chart template -->
+
+<!-- in scripts/main.js -->
+function animatedChartInit() {
+      var $template = $("#animated-template");
+
+      $(document).on("allContentLoaded", function(e) {
+        $(".combo-chart").html($template.html());
+        $template.remove();
+
+        $(".achart").each(function() {
+          var $chart = $(this);
+          $chart.parents("section").on("activated", function() {
+            $chart.trigger("restart");
+          });
+          $chart.parents(".toggle__content").on("open", function() {
+            $chart.trigger("restart");
+          });
+          $(".achart__redraw", $chart).on("click", function() {
+            $chart.trigger("restart");
+          });
+        });
+        $(".achart").on("restart", function() {
+          var $chart = $(this);
+          $chart.removeClass("start")[0].offsetHeight; // offsetHeight makes browser to redraw element
+          if (ifMSIE()) {
+            $chart.hide(0).show(0);
+          }
+          setTimeout(function() {
+            $chart.addClass("start");
+          }, 300);
+        });
+      });
+    }
+    <!-- then down at the bottom of the file it needs to be initialized with the other functions. -->
+
+    <!-- wherever it needs to be rendered
+    in resources/data/content.xml -->
+    <div class="combo-chart"></div>
+
+    <!-- Please note that the template variable on line 42 references ONE template and outputs ONE animated svg(line 45)
+    a new uniquely named template and InitFunction will need to be added per animation, DONT FORGET TO INITIALIZE -->
